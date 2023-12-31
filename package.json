@@ -1,0 +1,17 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "Problem solving with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "jest": "^29.7.0"
+  }
+}
