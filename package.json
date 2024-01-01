@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Problem solving with Javascript",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
